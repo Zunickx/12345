@@ -15,3 +15,9 @@ git pull
 ```
 git push
 ```
+
+## просмотр лога
+вврдим 
+```
+git log --graph --all
+```
